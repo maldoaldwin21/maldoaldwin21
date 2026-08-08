@@ -24,7 +24,3 @@ Computer Engineering graduate building full-stack web applications — from fron
 - **[Family Lounge Spa & Salon](https://github.com/maldoaldwin21/family-lounge-spa-salon)** — React/TypeScript spa booking site with an AI skincare consultant, product shop, and admin dashboard · [Live Demo](https://family-lounge-spa-salon.vercel.app/)
 - **[Barangay Gulod Portal](https://github.com/maldoaldwin21/barangay-gulod-portal)** — Client government information portal, built during my internship · [Live Demo](https://barangay-gulod-portal.vercel.app/)
 - **[Tami's Gaming Hub](https://github.com/maldoaldwin21/tamisgaminghub20)** — Business website for a coin-operated computer shop, built for local SEO · [Live Demo](https://tamisgaminghub20.vercel.app/)
-
-### 📊 GitHub Stats
-![Aldwin's GitHub stats](https://github-readme-stats.vercel.app/api?username=maldoaldwin21&show_icons=true&theme=default&hide_border=true)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=maldoaldwin21&layout=compact&hide_border=true)
